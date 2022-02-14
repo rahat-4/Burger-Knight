@@ -1,0 +1,8 @@
+.ingredient {
+  text-align: center;
+}
+
+.ingredient img {
+  margin: -5px;
+  width: 300px;
+}
